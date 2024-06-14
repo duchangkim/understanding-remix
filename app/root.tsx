@@ -19,6 +19,7 @@ export default function App() {
       </head>
       <body>
         <h1>Hello world!</h1>
+        <h2>Hello Remix and Vite</h2>
         <Outlet />
 
         <Scripts />
